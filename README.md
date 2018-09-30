@@ -1,4 +1,4 @@
-## By default Mac OSX comes with clang C++ compiler. This procedure installs and setup gcc C++ compiler for OSX so that you can use the VC Code IDE to write C++ on a Mac.
+## By default Mac OSX comes with clang C++ compiler. This procedure installs and setup gcc C++ compiler for OSX so that you can use the VS Code IDE, etc, to write C++ on a Mac.
 
 1.  brew install gcc
 
