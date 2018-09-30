@@ -13,4 +13,4 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
 
 5. run command 'g++ --version', you should see this: "++ (Homebrew GCC 8.2.0) 8.2.0
 Copyright (C) 2018 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions..." 
+This is free software; see the source for copying conditions..."  Please note: As of this writing, the version is: 8.x, obviously in the future, this will change.
