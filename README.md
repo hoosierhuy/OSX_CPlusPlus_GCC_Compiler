@@ -15,7 +15,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
 Copyright (C) 2018 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions..."  Please note: As of this writing, the version is: 8.x, obviously in the future, this will change.
 
-### These settings have worked for me in VS Code -> tasks.json:
+### These settings have worked for me in MacOS VS Code -> tasks.json:
 {
     "version": "2.0.0",
     "tasks": [
